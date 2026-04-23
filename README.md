@@ -37,10 +37,10 @@ This project focuses on analyzing healthcare data using Power BI to generate act
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/Admission and Discharge Data Section.png)
-![Dashboard](images/Financial Data Section.png)
-![Dashboard](images/Medical Condition and Treatments Section.png)
-![Dashboard](images/Patient Demographics Overview.png)
+![Dashboard](images/demographics_dashboard.png)
+![Dashboard](images/medical_dashboard.png)
+![Dashboard](images/financial_dashboard.png)
+![Dashboard](images/admission_dashboard.png)
 
 ## 📈 Key Insights
 - Elderly patients (66+) dominate hospital visits
